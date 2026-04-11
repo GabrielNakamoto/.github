@@ -1,4 +1,4 @@
-> strip me of my madness and im just silence pretending to breathe
+> It's not the spoon that bends, it's only yourself
 
 Robotics, deep learning, and low level research and implementation.
 
